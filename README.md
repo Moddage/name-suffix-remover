@@ -11,7 +11,7 @@ SomePanns: https://steamcommunity.com/id/somepanns/
 His main work: https://sourcecbl.com/
 
 # List of names removed:
-=============
+```
 G.E.W.P.
 G.E.W.P
 cTF2w
@@ -48,4 +48,4 @@ o.w.n
 skins.cash
 tfmarket.ru
 titan.tf
-=============
+```
