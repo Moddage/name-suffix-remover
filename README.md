@@ -47,5 +47,4 @@ g2a.com
 o.w.n
 skins.cash
 tfmarket.ru
-titan.tf
 ```
